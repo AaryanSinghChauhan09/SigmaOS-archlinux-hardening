@@ -1,0 +1,11 @@
+[package]
+name = "sigmaos-archlinux-hardening"
+version = "0.1.0"
+edition = "2021"
+authors = ["SigmaOS Contributors"]
+description = "SigmaOS archlinux-hardening component (Arch Linux inspired)"
+license = "MIT OR Apache-2.0"
+
+[lib]
+name = "sigmaos_archlinux-hardening"
+path = "src/lib.rs"
