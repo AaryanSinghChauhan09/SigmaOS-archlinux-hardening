@@ -7,5 +7,5 @@ description = "SigmaOS archlinux-hardening component (Arch Linux inspired)"
 license = "MIT OR Apache-2.0"
 
 [lib]
-name = "sigmaos_archlinux-hardening"
+name = "sigmaos_archlinux_hardening"
 path = "src/lib.rs"
