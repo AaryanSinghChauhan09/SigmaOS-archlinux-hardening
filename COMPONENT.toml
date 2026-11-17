@@ -3,7 +3,7 @@ name = "SigmaOS-archlinux-hardening"
 tier = 2
 stability = "scaffold"
 language = "rust"
-description = "archlinux-hardening component"
+description = "SigmaOS component repository"
 upstream = []
 
 [contract]
